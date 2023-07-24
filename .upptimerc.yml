@@ -1,31 +1,126 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+#你的GitHub username 
+owner: minc-nice-100
 
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+#你的GitHub repo name 
+repo: on
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  theme: dark
+  cname: https://on.ited.top
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+#加入要监控的网站名称与URL ,可以添加多个网站
+sites: 
+  - name: ited博客
+    url: https://ited.top/
+    icon: https://ited.top/favicon.ico
+    maxResponseTime: 8000
+    __dangerous__body_down: "Under Maintenance"
+  - name: 心理分站 - ited博客
+    url: https://yy.ited.top/
+    icon: https://ited.top/favicon.ico
+    maxResponseTime: 8000
+    __dangerous__body_down: "Under Maintenance"
+  - name: lib - ited博客
+    url: https://lib.ited.top/
+    icon: https://ited.top/favicon.ico
+    maxResponseTime: 8000
+    __dangerous__body_down: "Under Maintenance"
+  - name: ited网盘
+    url: https://pan.ited.top/
+    icon: https://ited.top/favicon.ico
+    maxResponseTime: 8000
+    __dangerous__body_down: "Under Maintenance"
+  - name: github加速 - ited博客
+    url: https://github.ited.top/
+    maxResponseTime: 8000
+    __dangerous__body_down: "Under Maintenance"
+  - name: 状态 - ited博客
+    url: https://on.ited.top/
+    maxResponseTime: 8000
+    __dangerous__body_down: "Under Maintenance"
+  - name: ited邮箱（ited高层用）
+    url: https://mail.ited.top/
+    maxResponseTime: 8000
+    __dangerous__body_down: "Under Maintenance"
+
+    
+#自定义状态页面的navbar名称与链接
+navbar: 
+    - title: 状态 - ited博客
+      href: https://on.ited.top/
+
+i18n:
+  activeIncidents: 活动事件
+  allSystemsOperational: 所有系统都可以正常运行
+  incidentReport: "事件 #$NUMBER 报告 →"
+  activeIncidentSummary: 在 $DATE 打开，有 $POSTS 个帖子
+  incidentTitle: 事件 $NUMBER 的详细信息
+  incidentDetails: 事件详细信息
+  incidentFixed: 已修复
+  incidentOngoing: 正在进行
+  incidentOpenedAt: 开始于
+  incidentClosedAt: 结束于
+  incidentSubscribe: 订阅更新
+  incidentViewOnGitHub: 在 GitHub 上查看
+  incidentCommentSummary: 由 $AUTHOR 在 $DATE 发布
+  incidentBack: ← 返回所有事件
+  pastIncidents: 过去的事件
+  pastIncidentsResolved: $POSTS 个问题在 $MINUTES 分钟内得到解决
+  liveStatus: 实时状态
+  overallUptime: "总体正常运行时间： $UPTIME"
+  overallUptimeTitle: 总体正常运行时间
+  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应时间
+  sevelDayResponseTime: 7 天响应时间
+  responseTimeMs: 响应时间（毫秒）
+  ms: ms
+  loading: 加载中
+  navGitHub: GitHub
+  footer: © ited博客
+  rateLimitExceededTitle: 超出速率限制
+  rateLimitExceededIntro: 您已超过一小时内可以执行的请求数，因此您必须等待才能再次访问此网站。或者，您可以添加 GitHub 个人访问令牌以继续使用本网站。
+  rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？本网站使用 GitHub API 访问有关我们网站状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，您已经消耗了这些请求。
+  rateLimitExceededErrorHowCanFix: 我该如何解决？
+  rateLimitExceededErrorFix: 您可以再等一个小时，您的 IP 地址限制将恢复。或者，您可以添加您的 GitHub 个人访问令牌，这将为您提供每小时额外 5,000 个请求。
+  rateLimitExceededGeneratePAT: 了解如何生成个人访问令牌
+  rateLimitExceededHasSet: 您有一个个人访问令牌集。
+  rateLimitExceededRemoveToken: 删除令牌
+  rateLimitExceededGitHubPAT: GitHub 个人访问令牌
+  rateLimitExceededCopyPastePAT: 复制并粘贴您的令牌
+  rateLimitExceededSaveToken: 保存令牌
+  errorTitle: 错误
+  errorIntro: 尝试获取最新状态详细信息时出错。
+  errorText: 您可以稍后再试。
+  errorHome: 转到主页
+  pastScheduledMaintenance: 过去的定期维护
+  scheduledMaintenance: 定期维护
+  scheduledMaintenanceSummaryStarted: 从 $DATE 开始，持续 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 从 $DATE 开始，持续 $DURATION 分钟
+  startedAt: 开始在
+  startsAt: 开始于
+  duration: 持续时间
+  durationMin: $DURATION 分钟
+  incidentCompleted: 已完成
+  incidentScheduled: 将来会进行
+  url: "链接"
+  status: "状态"
+  history: "历史状态"
+  responseTime: "响应时间"
+  uptime: "正常运行时间"
+  up: "🟩 正常运行"
+  degraded: "🟨 响应缓慢"
+  down: "🟥 停机"
+  responseTimeGraphAlt: "响应时间图表"
+  responseTimeDay: "24 小时响应时间"
+  responseTimeWeek: "7 天正常运行时间"
+  responseTimeMonth: "30天的正常运行时间"
+  responseTimeYear: "1年的正常运行时间"
+  uptimeDay: "24 小时正常运行时间"
+  uptimeWeek: "7 天正常运行时间"
+  uptimeMonth: "30天的正常运行时间"
+  uptimeYear: "1年的正常运行时间"
+  liveStatusHtmlComment: "实时状态"
+  degradedPerformance: "🟨 性能降低"
+  completeOutage: "🟥 全部停机"
+  partialOutage: "🟧 部分停机"
