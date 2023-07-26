@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1321,
-    "timeDay": 1572,
-    "timeWeek": 1321,
-    "timeMonth": 1321,
-    "timeYear": 1321,
+    "time": 1273,
+    "timeDay": 1484,
+    "timeWeek": 1273,
+    "timeMonth": 1273,
+    "timeYear": 1273,
     "dailyMinutesDown": {
       "2023-07-26": 0
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1321,
-    "timeDay": 1572,
-    "timeWeek": 1321,
-    "timeMonth": 1321,
-    "timeYear": 1321,
+    "time": 1273,
+    "timeDay": 1484,
+    "timeWeek": 1273,
+    "timeMonth": 1273,
+    "timeYear": 1273,
     "dailyMinutesDown": {
       "2023-07-26": 0
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1321,
-    "timeDay": 1572,
-    "timeWeek": 1321,
-    "timeMonth": 1321,
-    "timeYear": 1321,
+    "time": 1273,
+    "timeDay": 1484,
+    "timeWeek": 1273,
+    "timeMonth": 1273,
+    "timeYear": 1273,
     "dailyMinutesDown": {
       "2023-07-26": 0
     }
@@ -120,19 +120,19 @@
     "url": "https://mail.ited.top/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
-    "status": "down",
-    "uptime": "98.91%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.91%",
-    "time": 712,
-    "timeDay": 671,
-    "timeWeek": 712,
-    "timeMonth": 712,
-    "timeYear": 712,
+    "status": "up",
+    "uptime": "98.30%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
+    "time": 744,
+    "timeDay": 715,
+    "timeWeek": 744,
+    "timeMonth": 744,
+    "timeYear": 744,
     "dailyMinutesDown": {
-      "2023-07-26": 29
+      "2023-07-26": 46
     }
   }
 ]
