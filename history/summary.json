@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1218,
-    "timeDay": 1393,
-    "timeWeek": 1218,
-    "timeMonth": 1218,
-    "timeYear": 1218,
-    "dailyMinutesDown": {}
+    "time": 1173,
+    "timeDay": 1320,
+    "timeWeek": 1173,
+    "timeMonth": 1173,
+    "timeYear": 1173,
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "心理分站 - ited博客",
@@ -28,12 +30,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1218,
-    "timeDay": 1393,
-    "timeWeek": 1218,
-    "timeMonth": 1218,
-    "timeYear": 1218,
-    "dailyMinutesDown": {}
+    "time": 1173,
+    "timeDay": 1320,
+    "timeWeek": 1173,
+    "timeMonth": 1173,
+    "timeYear": 1173,
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "lib - ited博客",
@@ -64,12 +68,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1218,
-    "timeDay": 1393,
-    "timeWeek": 1218,
-    "timeMonth": 1218,
-    "timeYear": 1218,
-    "dailyMinutesDown": {}
+    "time": 1173,
+    "timeDay": 1320,
+    "timeWeek": 1173,
+    "timeMonth": 1173,
+    "timeYear": 1173,
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "github加速 - ited博客",
@@ -100,12 +106,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1218,
-    "timeDay": 1393,
-    "timeWeek": 1218,
-    "timeMonth": 1218,
-    "timeYear": 1218,
-    "dailyMinutesDown": {}
+    "time": 1173,
+    "timeDay": 1320,
+    "timeWeek": 1173,
+    "timeMonth": 1173,
+    "timeYear": 1173,
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "ited邮箱（ited高层用）",
@@ -113,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "95.85%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "97.83%",
+    "uptime": "98.32%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
     "time": 721,
     "timeDay": 692,
     "timeWeek": 721,
     "timeMonth": 721,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2023-07-26": 59
+      "2023-07-26": 46
     }
   }
 ]
