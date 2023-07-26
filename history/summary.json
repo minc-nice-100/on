@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 784,
-    "timeWeek": 725,
-    "timeMonth": 725,
-    "timeYear": 725,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 901,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 783,
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "心理分站 - ited博客",
@@ -28,12 +30,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 784,
-    "timeWeek": 725,
-    "timeMonth": 725,
-    "timeYear": 725,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 901,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 783,
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "lib - ited博客",
@@ -64,12 +68,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 784,
-    "timeWeek": 725,
-    "timeMonth": 725,
-    "timeYear": 725,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 901,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 783,
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "github加速 - ited博客",
@@ -100,12 +106,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 784,
-    "timeWeek": 725,
-    "timeMonth": 725,
-    "timeYear": 725,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 901,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 783,
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "ited邮箱（ited高层用）",
