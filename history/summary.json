@@ -10,11 +10,11 @@
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1313,
+    "time": 1308,
     "timeDay": 389,
-    "timeWeek": 510,
-    "timeMonth": 1324,
-    "timeYear": 1313,
+    "timeWeek": 505,
+    "timeMonth": 1319,
+    "timeYear": 1308,
     "dailyMinutesDown": {
       "2023-08-25": 3
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1313,
-    "timeDay": 389,
-    "timeWeek": 510,
-    "timeMonth": 1324,
-    "timeYear": 1313,
+    "time": 1310,
+    "timeDay": 384,
+    "timeWeek": 505,
+    "timeMonth": 1321,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2023-08-25": 3
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1313,
-    "timeDay": 389,
-    "timeWeek": 510,
-    "timeMonth": 1324,
-    "timeYear": 1313,
+    "time": 1310,
+    "timeDay": 384,
+    "timeWeek": 505,
+    "timeMonth": 1321,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2023-08-25": 3
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1313,
-    "timeDay": 389,
-    "timeWeek": 510,
-    "timeMonth": 1324,
-    "timeYear": 1313,
+    "time": 1310,
+    "timeDay": 384,
+    "timeWeek": 505,
+    "timeMonth": 1321,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2023-08-25": 3
     }
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "down",
-    "uptime": "67.50%",
-    "uptimeDay": "55.36%",
-    "uptimeWeek": "93.62%",
-    "uptimeMonth": "65.72%",
-    "uptimeYear": "67.50%",
+    "uptime": "67.48%",
+    "uptimeDay": "54.47%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "65.69%",
+    "uptimeYear": "67.48%",
     "time": 1636,
     "timeDay": 1464,
     "timeWeek": 1205,
     "timeMonth": 1667,
     "timeYear": 1636,
     "dailyMinutesDown": {
-      "2023-08-25": 643,
+      "2023-08-25": 656,
       "2023-08-18": 22,
       "2023-08-15": 1435,
       "2023-08-14": 1440,
