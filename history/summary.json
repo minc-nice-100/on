@@ -10,11 +10,11 @@
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1281,
-    "timeDay": 369,
-    "timeWeek": 476,
-    "timeMonth": 1292,
-    "timeYear": 1281,
+    "time": 1279,
+    "timeDay": 366,
+    "timeWeek": 472,
+    "timeMonth": 1289,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2023-08-25": 3
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1281,
-    "timeDay": 365,
+    "time": 1279,
+    "timeDay": 366,
     "timeWeek": 472,
-    "timeMonth": 1291,
-    "timeYear": 1281,
+    "timeMonth": 1289,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2023-08-25": 3
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1281,
-    "timeDay": 365,
+    "time": 1279,
+    "timeDay": 366,
     "timeWeek": 472,
-    "timeMonth": 1291,
-    "timeYear": 1281,
+    "timeMonth": 1289,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2023-08-25": 3
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1281,
-    "timeDay": 365,
+    "time": 1279,
+    "timeDay": 366,
     "timeWeek": 472,
-    "timeMonth": 1291,
-    "timeYear": 1281,
+    "timeMonth": 1289,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2023-08-25": 3
     }
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "down",
-    "uptime": "67.17%",
-    "uptimeDay": "39.77%",
-    "uptimeWeek": "91.40%",
-    "uptimeMonth": "65.20%",
-    "uptimeYear": "67.17%",
+    "uptime": "67.16%",
+    "uptimeDay": "38.88%",
+    "uptimeWeek": "91.27%",
+    "uptimeMonth": "65.17%",
+    "uptimeYear": "67.16%",
     "time": 1636,
     "timeDay": 1464,
     "timeWeek": 1205,
     "timeMonth": 1667,
     "timeYear": 1636,
     "dailyMinutesDown": {
-      "2023-08-25": 867,
+      "2023-08-25": 880,
       "2023-08-18": 22,
       "2023-08-15": 1435,
       "2023-08-14": 1440,
