@@ -10,11 +10,11 @@
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1645,
-    "timeDay": 4676,
-    "timeWeek": 3464,
-    "timeMonth": 1727,
-    "timeYear": 1645,
+    "time": 1651,
+    "timeDay": 4659,
+    "timeWeek": 3482,
+    "timeMonth": 1733,
+    "timeYear": 1651,
     "dailyMinutesDown": {
       "2023-09-05": 1
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1645,
-    "timeDay": 4676,
-    "timeWeek": 3464,
-    "timeMonth": 1727,
-    "timeYear": 1645,
+    "time": 1651,
+    "timeDay": 4659,
+    "timeWeek": 3482,
+    "timeMonth": 1733,
+    "timeYear": 1651,
     "dailyMinutesDown": {
       "2023-09-05": 1
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1645,
-    "timeDay": 4676,
-    "timeWeek": 3464,
-    "timeMonth": 1727,
-    "timeYear": 1645,
+    "time": 1651,
+    "timeDay": 4659,
+    "timeWeek": 3482,
+    "timeMonth": 1733,
+    "timeYear": 1651,
     "dailyMinutesDown": {
       "2023-09-05": 1
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1645,
-    "timeDay": 4676,
-    "timeWeek": 3464,
-    "timeMonth": 1727,
-    "timeYear": 1645,
+    "time": 1651,
+    "timeDay": 4659,
+    "timeWeek": 3482,
+    "timeMonth": 1733,
+    "timeYear": 1651,
     "dailyMinutesDown": {
       "2023-09-05": 1
     }
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "degraded",
-    "uptime": "71.21%",
-    "uptimeDay": "75.88%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "59.15%",
-    "uptimeYear": "71.21%",
+    "uptime": "71.19%",
+    "uptimeDay": "74.96%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "59.12%",
+    "uptimeYear": "71.19%",
     "time": 1897,
     "timeDay": 8339,
     "timeWeek": 3475,
     "timeMonth": 2616,
     "timeYear": 1897,
     "dailyMinutesDown": {
-      "2023-09-05": 347,
+      "2023-09-05": 361,
       "2023-08-27": 702,
       "2023-08-26": 1440,
       "2023-08-25": 1135,
