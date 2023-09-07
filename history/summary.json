@@ -10,11 +10,11 @@
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2175,
-    "timeDay": 4390,
-    "timeWeek": 4191,
-    "timeMonth": 2278,
-    "timeYear": 2175,
+    "time": 2179,
+    "timeDay": 4392,
+    "timeWeek": 4192,
+    "timeMonth": 2282,
+    "timeYear": 2179,
     "dailyMinutesDown": {
       "2023-09-07": 1
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2175,
-    "timeDay": 4390,
-    "timeWeek": 4191,
-    "timeMonth": 2278,
-    "timeYear": 2175,
+    "time": 2179,
+    "timeDay": 4392,
+    "timeWeek": 4192,
+    "timeMonth": 2282,
+    "timeYear": 2179,
     "dailyMinutesDown": {
       "2023-09-07": 1
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2175,
-    "timeDay": 4390,
-    "timeWeek": 4191,
-    "timeMonth": 2278,
-    "timeYear": 2175,
+    "time": 2179,
+    "timeDay": 4392,
+    "timeWeek": 4192,
+    "timeMonth": 2282,
+    "timeYear": 2179,
     "dailyMinutesDown": {
       "2023-09-07": 1
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2175,
-    "timeDay": 4390,
-    "timeWeek": 4191,
-    "timeMonth": 2278,
-    "timeYear": 2175,
+    "time": 2179,
+    "timeDay": 4392,
+    "timeWeek": 4192,
+    "timeMonth": 2282,
+    "timeYear": 2179,
     "dailyMinutesDown": {
       "2023-09-07": 1
     }
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "degraded",
-    "uptime": "69.19%",
+    "uptime": "69.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.45%",
+    "uptimeWeek": "78.19%",
     "uptimeMonth": "58.75%",
-    "uptimeYear": "69.19%",
+    "uptimeYear": "69.16%",
     "time": 1989,
     "timeDay": 8094,
     "timeWeek": 4139,
     "timeMonth": 2861,
     "timeYear": 1989,
     "dailyMinutesDown": {
-      "2023-09-07": 357,
+      "2023-09-07": 383,
       "2023-09-06": 1440,
       "2023-09-05": 375,
       "2023-08-27": 702,
