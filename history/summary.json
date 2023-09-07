@@ -6,18 +6,16 @@
     "slug": "ited",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2110,
-    "timeDay": 4390,
-    "timeWeek": 4174,
+    "timeDay": 4417,
+    "timeWeek": 4175,
     "timeMonth": 2210,
     "timeYear": 2110,
-    "dailyMinutesDown": {
-      "2023-09-06": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "心理分站 - ited博客",
@@ -26,18 +24,16 @@
     "slug": "ited",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2110,
-    "timeDay": 4392,
+    "timeDay": 4417,
     "timeWeek": 4175,
     "timeMonth": 2210,
     "timeYear": 2110,
-    "dailyMinutesDown": {
-      "2023-09-06": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "lib - ited博客",
@@ -64,18 +60,16 @@
     "slug": "ited",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2110,
-    "timeDay": 4392,
+    "timeDay": 4417,
     "timeWeek": 4175,
     "timeMonth": 2210,
     "timeYear": 2110,
-    "dailyMinutesDown": {
-      "2023-09-06": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "github加速 - ited博客",
@@ -102,18 +96,16 @@
     "slug": "ited",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2110,
-    "timeDay": 4392,
+    "timeDay": 4417,
     "timeWeek": 4175,
     "timeMonth": 2210,
     "timeYear": 2110,
-    "dailyMinutesDown": {
-      "2023-09-06": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ited邮箱（ited高层用）",
@@ -121,18 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "degraded",
-    "uptime": "69.58%",
+    "uptime": "69.53%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.02%",
+    "uptimeWeek": "81.56%",
     "uptimeMonth": "58.75%",
-    "uptimeYear": "69.58%",
+    "uptimeYear": "69.53%",
     "time": 1989,
     "timeDay": 8094,
     "timeWeek": 4139,
     "timeMonth": 2861,
     "timeYear": 1989,
     "dailyMinutesDown": {
-      "2023-09-06": 1437,
+      "2023-09-07": 44,
+      "2023-09-06": 1440,
       "2023-09-05": 375,
       "2023-08-27": 702,
       "2023-08-26": 1440,
