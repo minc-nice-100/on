@@ -6,17 +6,17 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "72.76%",
+    "uptimeDay": "72.74%",
     "uptimeWeek": "96.11%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.43%",
-    "time": 2356,
-    "timeDay": 1305,
-    "timeWeek": 3862,
+    "time": 2355,
+    "timeDay": 1303,
+    "timeWeek": 3857,
     "timeMonth": 2518,
-    "timeYear": 2356,
+    "timeYear": 2355,
     "dailyMinutesDown": {
-      "2023-09-09": 392
+      "2023-09-09": 393
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "72.76%",
+    "uptimeDay": "72.74%",
     "uptimeWeek": "96.11%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.43%",
-    "time": 2356,
-    "timeDay": 1305,
-    "timeWeek": 3862,
+    "time": 2355,
+    "timeDay": 1303,
+    "timeWeek": 3857,
     "timeMonth": 2518,
-    "timeYear": 2356,
+    "timeYear": 2355,
     "dailyMinutesDown": {
-      "2023-09-09": 392
+      "2023-09-09": 393
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://ited.top/favicon.ico",
     "slug": "ited",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "72.76%",
-    "uptimeWeek": "96.11%",
+    "uptime": "99.42%",
+    "uptimeDay": "72.73%",
+    "uptimeWeek": "96.10%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "99.43%",
-    "time": 2356,
-    "timeDay": 1305,
-    "timeWeek": 3862,
+    "uptimeYear": "99.42%",
+    "time": 2355,
+    "timeDay": 1303,
+    "timeWeek": 3857,
     "timeMonth": 2518,
-    "timeYear": 2356,
+    "timeYear": 2355,
     "dailyMinutesDown": {
-      "2023-09-09": 392
+      "2023-09-09": 393
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/on.ited.top.ico",
     "slug": "ited",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "72.75%",
-    "uptimeWeek": "96.11%",
+    "uptime": "99.42%",
+    "uptimeDay": "72.73%",
+    "uptimeWeek": "96.10%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "99.43%",
-    "time": 2356,
-    "timeDay": 1305,
-    "timeWeek": 3862,
+    "uptimeYear": "99.42%",
+    "time": 2355,
+    "timeDay": 1303,
+    "timeWeek": 3857,
     "timeMonth": 2518,
-    "timeYear": 2356,
+    "timeYear": 2355,
     "dailyMinutesDown": {
-      "2023-09-09": 392
+      "2023-09-09": 393
     }
   },
   {
@@ -124,7 +124,7 @@
     "uptime": "69.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "67.18%",
-    "uptimeMonth": "65.13%",
+    "uptimeMonth": "65.16%",
     "uptimeYear": "69.30%",
     "time": 2060,
     "timeDay": 0,
