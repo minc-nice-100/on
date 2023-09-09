@@ -6,17 +6,17 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "77.63%",
-    "uptimeWeek": "96.80%",
+    "uptimeDay": "77.64%",
+    "uptimeWeek": "96.81%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.53%",
-    "time": 2372,
-    "timeDay": 1346,
-    "timeWeek": 3931,
+    "time": 2371,
+    "timeDay": 1343,
+    "timeWeek": 3926,
     "timeMonth": 2526,
-    "timeYear": 2372,
+    "timeYear": 2371,
     "dailyMinutesDown": {
-      "2023-09-09": 323
+      "2023-09-09": 322
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "77.62%",
+    "uptimeDay": "77.63%",
     "uptimeWeek": "96.80%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.53%",
-    "time": 2372,
-    "timeDay": 1346,
-    "timeWeek": 3931,
+    "time": 2371,
+    "timeDay": 1343,
+    "timeWeek": 3926,
     "timeMonth": 2526,
-    "timeYear": 2372,
+    "timeYear": 2371,
     "dailyMinutesDown": {
-      "2023-09-09": 323
+      "2023-09-09": 322
     }
   },
   {
@@ -64,17 +64,17 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "77.61%",
+    "uptimeDay": "77.63%",
     "uptimeWeek": "96.80%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.53%",
-    "time": 2372,
-    "timeDay": 1346,
-    "timeWeek": 3931,
+    "time": 2371,
+    "timeDay": 1343,
+    "timeWeek": 3926,
     "timeMonth": 2526,
-    "timeYear": 2372,
+    "timeYear": 2371,
     "dailyMinutesDown": {
-      "2023-09-09": 323
+      "2023-09-09": 322
     }
   },
   {
@@ -102,17 +102,17 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "77.61%",
+    "uptimeDay": "77.62%",
     "uptimeWeek": "96.80%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.53%",
-    "time": 2372,
-    "timeDay": 1346,
-    "timeWeek": 3931,
+    "time": 2371,
+    "timeDay": 1343,
+    "timeWeek": 3926,
     "timeMonth": 2526,
-    "timeYear": 2372,
+    "timeYear": 2371,
     "dailyMinutesDown": {
-      "2023-09-09": 323
+      "2023-09-09": 322
     }
   },
   {
@@ -121,11 +121,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "up",
-    "uptime": "69.19%",
+    "uptime": "69.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "67.18%",
-    "uptimeMonth": "64.59%",
-    "uptimeYear": "69.19%",
+    "uptimeMonth": "64.62%",
+    "uptimeYear": "69.20%",
     "time": 2060,
     "timeDay": 1576,
     "timeWeek": 4535,
