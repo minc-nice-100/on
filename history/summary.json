@@ -6,8 +6,8 @@
     "slug": "ited",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.36%",
     "time": 2929,
@@ -16,7 +16,6 @@
     "timeMonth": 3314,
     "timeYear": 2929,
     "dailyMinutesDown": {
-      "2023-09-22": 1,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -28,8 +27,8 @@
     "slug": "ited",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.36%",
     "time": 2929,
@@ -38,7 +37,6 @@
     "timeMonth": 3314,
     "timeYear": 2929,
     "dailyMinutesDown": {
-      "2023-09-22": 1,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -68,8 +66,8 @@
     "slug": "ited",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.36%",
     "time": 2929,
@@ -78,7 +76,6 @@
     "timeMonth": 3314,
     "timeYear": 2929,
     "dailyMinutesDown": {
-      "2023-09-22": 1,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -108,8 +105,8 @@
     "slug": "ited",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.36%",
     "time": 2929,
@@ -118,7 +115,6 @@
     "timeMonth": 3314,
     "timeYear": 2929,
     "dailyMinutesDown": {
-      "2023-09-22": 1,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -129,18 +125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "degraded",
-    "uptime": "70.61%",
-    "uptimeDay": "89.84%",
-    "uptimeWeek": "64.66%",
-    "uptimeMonth": "74.43%",
-    "uptimeYear": "70.61%",
+    "uptime": "70.57%",
+    "uptimeDay": "86.50%",
+    "uptimeWeek": "64.18%",
+    "uptimeMonth": "74.32%",
+    "uptimeYear": "70.57%",
     "time": 2492,
     "timeDay": 8224,
     "timeWeek": 5076,
     "timeMonth": 3438,
     "timeYear": 2492,
     "dailyMinutesDown": {
-      "2023-09-22": 146,
+      "2023-09-23": 44,
+      "2023-09-22": 151,
       "2023-09-20": 851,
       "2023-09-19": 1440,
       "2023-09-18": 1079,
