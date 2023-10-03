@@ -6,7 +6,7 @@
     "slug": "ited",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.45%",
@@ -16,7 +16,6 @@
     "timeMonth": 2635,
     "timeYear": 2278,
     "dailyMinutesDown": {
-      "2023-10-02": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -28,7 +27,7 @@
     "slug": "ited",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.45%",
@@ -38,7 +37,6 @@
     "timeMonth": 2635,
     "timeYear": 2278,
     "dailyMinutesDown": {
-      "2023-10-02": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -68,7 +66,7 @@
     "slug": "ited",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.45%",
@@ -78,7 +76,6 @@
     "timeMonth": 2635,
     "timeYear": 2278,
     "dailyMinutesDown": {
-      "2023-10-02": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -108,7 +105,7 @@
     "slug": "ited",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.45%",
@@ -118,7 +115,6 @@
     "timeMonth": 2635,
     "timeYear": 2278,
     "dailyMinutesDown": {
-      "2023-10-02": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -129,18 +125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "down",
-    "uptime": "68.46%",
+    "uptime": "68.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "41.85%",
-    "uptimeMonth": "67.28%",
-    "uptimeYear": "68.46%",
+    "uptimeWeek": "41.37%",
+    "uptimeMonth": "67.17%",
+    "uptimeYear": "68.43%",
     "time": 2338,
     "timeDay": 402,
     "timeWeek": 386,
     "timeMonth": 3378,
     "timeYear": 2338,
     "dailyMinutesDown": {
-      "2023-10-02": 1438,
+      "2023-10-03": 46,
+      "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
