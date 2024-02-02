@@ -16,7 +16,6 @@
     "timeMonth": 10895,
     "timeYear": 5803,
     "dailyMinutesDown": {
-      "2024-02-02": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -38,7 +37,6 @@
     "timeMonth": 10895,
     "timeYear": 5803,
     "dailyMinutesDown": {
-      "2024-02-02": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -78,7 +76,6 @@
     "timeMonth": 10895,
     "timeYear": 5803,
     "dailyMinutesDown": {
-      "2024-02-02": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -118,7 +115,6 @@
     "timeMonth": 10895,
     "timeYear": 5803,
     "dailyMinutesDown": {
-      "2024-02-02": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -129,11 +125,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "up",
-    "uptime": "88.36%",
+    "uptime": "88.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.36%",
+    "uptimeYear": "88.37%",
     "time": 1779,
     "timeDay": 589,
     "timeWeek": 639,
