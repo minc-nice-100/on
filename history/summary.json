@@ -10,12 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 6291,
-    "timeDay": 11166,
+    "time": 6293,
+    "timeDay": 11171,
     "timeWeek": 11175,
-    "timeMonth": 10988,
-    "timeYear": 6291,
+    "timeMonth": 10989,
+    "timeYear": 6293,
     "dailyMinutesDown": {
+      "2024-02-05": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -31,12 +32,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 6291,
-    "timeDay": 11166,
+    "time": 6293,
+    "timeDay": 11171,
     "timeWeek": 11175,
-    "timeMonth": 10988,
-    "timeYear": 6291,
+    "timeMonth": 10989,
+    "timeYear": 6293,
     "dailyMinutesDown": {
+      "2024-02-05": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -70,12 +72,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 6291,
-    "timeDay": 11166,
+    "time": 6293,
+    "timeDay": 11171,
     "timeWeek": 11175,
-    "timeMonth": 10988,
-    "timeYear": 6291,
+    "timeMonth": 10989,
+    "timeYear": 6293,
     "dailyMinutesDown": {
+      "2024-02-05": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -109,12 +112,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 6291,
-    "timeDay": 11166,
+    "time": 6293,
+    "timeDay": 11171,
     "timeWeek": 11175,
-    "timeMonth": 10988,
-    "timeYear": 6291,
+    "timeMonth": 10989,
+    "timeYear": 6293,
     "dailyMinutesDown": {
+      "2024-02-05": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -125,11 +129,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "up",
-    "uptime": "88.54%",
+    "uptime": "88.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.54%",
+    "uptimeYear": "88.55%",
     "time": 1766,
     "timeDay": 586,
     "timeWeek": 706,
