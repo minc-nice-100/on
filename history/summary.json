@@ -10,12 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 6434,
-    "timeDay": 563,
-    "timeWeek": 659,
+    "time": 6435,
+    "timeDay": 4130,
+    "timeWeek": 1366,
     "timeMonth": 11013,
-    "timeYear": 6434,
+    "timeYear": 6435,
     "dailyMinutesDown": {
+      "2024-02-16": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -31,12 +32,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 6434,
-    "timeDay": 563,
-    "timeWeek": 659,
+    "time": 6435,
+    "timeDay": 4130,
+    "timeWeek": 1366,
     "timeMonth": 11013,
-    "timeYear": 6434,
+    "timeYear": 6435,
     "dailyMinutesDown": {
+      "2024-02-16": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -70,12 +72,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 6434,
-    "timeDay": 563,
-    "timeWeek": 659,
+    "time": 6435,
+    "timeDay": 4130,
+    "timeWeek": 1366,
     "timeMonth": 11013,
-    "timeYear": 6434,
+    "timeYear": 6435,
     "dailyMinutesDown": {
+      "2024-02-16": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -109,12 +112,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 6434,
-    "timeDay": 563,
-    "timeWeek": 659,
+    "time": 6435,
+    "timeDay": 4130,
+    "timeWeek": 1366,
     "timeMonth": 11013,
-    "timeYear": 6434,
+    "timeYear": 6435,
     "dailyMinutesDown": {
+      "2024-02-16": 0,
       "2023-09-10": 168,
       "2023-09-09": 389
     }
@@ -125,11 +129,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "up",
-    "uptime": "89.15%",
+    "uptime": "89.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.15%",
+    "uptimeYear": "89.17%",
     "time": 1714,
     "timeDay": 377,
     "timeWeek": 575,
