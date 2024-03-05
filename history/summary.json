@@ -6,20 +6,20 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "49.75%",
-    "uptimeWeek": "73.58%",
-    "uptimeMonth": "93.92%",
+    "uptimeDay": "49.48%",
+    "uptimeWeek": "73.71%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "99.18%",
-    "time": 4380,
-    "timeDay": 552,
-    "timeWeek": 571,
-    "timeMonth": 1146,
-    "timeYear": 4380,
+    "time": 4379,
+    "timeDay": 549,
+    "timeWeek": 570,
+    "timeMonth": 1140,
+    "timeYear": 4379,
     "dailyMinutesDown": {
-      "2024-03-05": 721,
+      "2024-03-05": 726,
       "2024-03-04": 1022,
       "2024-03-03": 666,
-      "2024-03-02": 253
+      "2024-03-02": 235
     }
   },
   {
@@ -29,20 +29,20 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "49.75%",
-    "uptimeWeek": "73.58%",
-    "uptimeMonth": "93.92%",
+    "uptimeDay": "49.43%",
+    "uptimeWeek": "73.70%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "99.18%",
-    "time": 4380,
-    "timeDay": 550,
-    "timeWeek": 571,
-    "timeMonth": 1146,
-    "timeYear": 4380,
+    "time": 4379,
+    "timeDay": 549,
+    "timeWeek": 570,
+    "timeMonth": 1140,
+    "timeYear": 4379,
     "dailyMinutesDown": {
-      "2024-03-05": 722,
+      "2024-03-05": 727,
       "2024-03-04": 1022,
       "2024-03-03": 666,
-      "2024-03-02": 253
+      "2024-03-02": 235
     }
   },
   {
@@ -59,7 +59,7 @@
     "time": 380,
     "timeDay": 531,
     "timeWeek": 331,
-    "timeMonth": 374,
+    "timeMonth": 372,
     "timeYear": 380,
     "dailyMinutesDown": {}
   },
@@ -70,20 +70,20 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "49.74%",
-    "uptimeWeek": "73.57%",
-    "uptimeMonth": "93.92%",
+    "uptimeDay": "49.39%",
+    "uptimeWeek": "73.70%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "99.18%",
-    "time": 4380,
-    "timeDay": 551,
-    "timeWeek": 571,
+    "time": 4379,
+    "timeDay": 547,
+    "timeWeek": 570,
     "timeMonth": 1140,
-    "timeYear": 4380,
+    "timeYear": 4379,
     "dailyMinutesDown": {
-      "2024-03-05": 722,
+      "2024-03-05": 727,
       "2024-03-04": 1022,
       "2024-03-03": 666,
-      "2024-03-02": 253
+      "2024-03-02": 235
     }
   },
   {
@@ -100,7 +100,7 @@
     "time": 359,
     "timeDay": 87,
     "timeWeek": 192,
-    "timeMonth": 269,
+    "timeMonth": 256,
     "timeYear": 359,
     "dailyMinutesDown": {}
   },
@@ -111,20 +111,20 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "49.70%",
-    "uptimeWeek": "73.56%",
-    "uptimeMonth": "93.92%",
+    "uptimeDay": "49.34%",
+    "uptimeWeek": "73.69%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "99.18%",
-    "time": 4380,
-    "timeDay": 551,
-    "timeWeek": 571,
+    "time": 4379,
+    "timeDay": 547,
+    "timeWeek": 570,
     "timeMonth": 1140,
-    "timeYear": 4380,
+    "timeYear": 4379,
     "dailyMinutesDown": {
-      "2024-03-05": 723,
+      "2024-03-05": 728,
       "2024-03-04": 1022,
       "2024-03-03": 666,
-      "2024-03-02": 253
+      "2024-03-02": 235
     }
   },
   {
