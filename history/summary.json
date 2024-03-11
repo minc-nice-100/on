@@ -6,8 +6,8 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "44.38%",
-    "uptimeWeek": "77.30%",
+    "uptimeDay": "44.14%",
+    "uptimeWeek": "77.31%",
     "uptimeMonth": "94.78%",
     "uptimeYear": "99.31%",
     "time": 3869,
@@ -16,10 +16,10 @@
     "timeMonth": 873,
     "timeYear": 3869,
     "dailyMinutesDown": {
-      "2024-03-11": 683,
+      "2024-03-11": 700,
       "2024-03-10": 717,
       "2024-03-09": 713,
-      "2024-03-08": 176
+      "2024-03-08": 158
     }
   },
   {
@@ -29,8 +29,8 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "44.32%",
-    "uptimeWeek": "77.30%",
+    "uptimeDay": "44.14%",
+    "uptimeWeek": "77.31%",
     "uptimeMonth": "94.78%",
     "uptimeYear": "99.31%",
     "time": 3869,
@@ -39,10 +39,10 @@
     "timeMonth": 873,
     "timeYear": 3869,
     "dailyMinutesDown": {
-      "2024-03-11": 684,
+      "2024-03-11": 701,
       "2024-03-10": 717,
       "2024-03-09": 713,
-      "2024-03-08": 176
+      "2024-03-08": 158
     }
   },
   {
@@ -70,9 +70,9 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "44.27%",
-    "uptimeWeek": "77.29%",
-    "uptimeMonth": "94.77%",
+    "uptimeDay": "44.14%",
+    "uptimeWeek": "77.30%",
+    "uptimeMonth": "94.78%",
     "uptimeYear": "99.31%",
     "time": 3869,
     "timeDay": 707,
@@ -80,10 +80,10 @@
     "timeMonth": 873,
     "timeYear": 3869,
     "dailyMinutesDown": {
-      "2024-03-11": 685,
+      "2024-03-11": 701,
       "2024-03-10": 717,
       "2024-03-09": 713,
-      "2024-03-08": 176
+      "2024-03-08": 158
     }
   },
   {
@@ -111,9 +111,9 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "44.21%",
-    "uptimeWeek": "77.28%",
-    "uptimeMonth": "94.77%",
+    "uptimeDay": "44.14%",
+    "uptimeWeek": "77.30%",
+    "uptimeMonth": "94.78%",
     "uptimeYear": "99.31%",
     "time": 3869,
     "timeDay": 707,
@@ -121,10 +121,10 @@
     "timeMonth": 873,
     "timeYear": 3869,
     "dailyMinutesDown": {
-      "2024-03-11": 686,
+      "2024-03-11": 702,
       "2024-03-10": 717,
       "2024-03-09": 713,
-      "2024-03-08": 176
+      "2024-03-08": 158
     }
   },
   {
