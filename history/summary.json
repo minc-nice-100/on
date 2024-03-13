@@ -7,19 +7,19 @@
     "status": "down",
     "uptime": "99.32%",
     "uptimeDay": "48.06%",
-    "uptimeWeek": "77.23%",
+    "uptimeWeek": "77.22%",
     "uptimeMonth": "94.76%",
     "uptimeYear": "99.32%",
     "time": 3788,
     "timeDay": 689,
-    "timeWeek": 625,
+    "timeWeek": 624,
     "timeMonth": 864,
     "timeYear": 3788,
     "dailyMinutesDown": {
-      "2024-03-13": 443,
+      "2024-03-13": 465,
       "2024-03-12": 778,
       "2024-03-11": 817,
-      "2024-03-10": 259
+      "2024-03-10": 238
     }
   },
   {
@@ -30,19 +30,19 @@
     "status": "down",
     "uptime": "99.32%",
     "uptimeDay": "48.06%",
-    "uptimeWeek": "77.22%",
+    "uptimeWeek": "77.21%",
     "uptimeMonth": "94.76%",
     "uptimeYear": "99.32%",
     "time": 3788,
     "timeDay": 689,
-    "timeWeek": 625,
+    "timeWeek": 624,
     "timeMonth": 864,
     "timeYear": 3788,
     "dailyMinutesDown": {
-      "2024-03-13": 444,
+      "2024-03-13": 466,
       "2024-03-12": 778,
       "2024-03-11": 817,
-      "2024-03-10": 259
+      "2024-03-10": 238
     }
   },
   {
@@ -71,19 +71,19 @@
     "status": "down",
     "uptime": "99.32%",
     "uptimeDay": "48.06%",
-    "uptimeWeek": "77.21%",
-    "uptimeMonth": "94.76%",
+    "uptimeWeek": "77.20%",
+    "uptimeMonth": "94.75%",
     "uptimeYear": "99.32%",
     "time": 3788,
     "timeDay": 689,
-    "timeWeek": 625,
+    "timeWeek": 624,
     "timeMonth": 864,
     "timeYear": 3788,
     "dailyMinutesDown": {
-      "2024-03-13": 445,
+      "2024-03-13": 467,
       "2024-03-12": 778,
       "2024-03-11": 817,
-      "2024-03-10": 259
+      "2024-03-10": 238
     }
   },
   {
@@ -110,21 +110,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/on.ited.top.ico",
     "slug": "ited",
     "status": "down",
-    "uptime": "99.32%",
+    "uptime": "99.31%",
     "uptimeDay": "48.06%",
     "uptimeWeek": "77.20%",
     "uptimeMonth": "94.75%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.31%",
     "time": 3788,
     "timeDay": 689,
-    "timeWeek": 625,
+    "timeWeek": 624,
     "timeMonth": 864,
     "timeYear": 3788,
     "dailyMinutesDown": {
-      "2024-03-13": 446,
+      "2024-03-13": 468,
       "2024-03-12": 778,
       "2024-03-11": 817,
-      "2024-03-10": 259
+      "2024-03-10": 238
     }
   },
   {
