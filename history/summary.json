@@ -6,21 +6,21 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "48.67%",
-    "uptimeWeek": "75.86%",
-    "uptimeMonth": "94.45%",
+    "uptimeDay": "47.75%",
+    "uptimeWeek": "75.92%",
+    "uptimeMonth": "94.46%",
     "uptimeYear": "99.28%",
     "time": 3676,
-    "timeDay": 744,
+    "timeDay": 745,
     "timeWeek": 713,
     "timeMonth": 855,
     "timeYear": 3676,
     "dailyMinutesDown": {
-      "2024-03-16": 178,
+      "2024-03-16": 191,
       "2024-03-15": 729,
       "2024-03-14": 743,
       "2024-03-13": 727,
-      "2024-03-12": 58
+      "2024-03-12": 39
     }
   },
   {
@@ -30,21 +30,21 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "48.63%",
-    "uptimeWeek": "75.86%",
-    "uptimeMonth": "94.44%",
+    "uptimeDay": "47.69%",
+    "uptimeWeek": "75.91%",
+    "uptimeMonth": "94.46%",
     "uptimeYear": "99.28%",
     "time": 3676,
-    "timeDay": 744,
+    "timeDay": 745,
     "timeWeek": 713,
     "timeMonth": 855,
     "timeYear": 3676,
     "dailyMinutesDown": {
-      "2024-03-16": 179,
+      "2024-03-16": 192,
       "2024-03-15": 729,
       "2024-03-14": 743,
       "2024-03-13": 727,
-      "2024-03-12": 58
+      "2024-03-12": 39
     }
   },
   {
@@ -72,21 +72,21 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "48.60%",
-    "uptimeWeek": "75.85%",
-    "uptimeMonth": "94.44%",
+    "uptimeDay": "47.63%",
+    "uptimeWeek": "75.91%",
+    "uptimeMonth": "94.46%",
     "uptimeYear": "99.28%",
     "time": 3676,
-    "timeDay": 747,
+    "timeDay": 745,
     "timeWeek": 713,
     "timeMonth": 855,
     "timeYear": 3676,
     "dailyMinutesDown": {
-      "2024-03-16": 179,
+      "2024-03-16": 193,
       "2024-03-15": 729,
       "2024-03-14": 743,
       "2024-03-13": 727,
-      "2024-03-12": 58
+      "2024-03-12": 39
     }
   },
   {
@@ -114,21 +114,21 @@
     "slug": "ited",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "48.57%",
-    "uptimeWeek": "75.85%",
-    "uptimeMonth": "94.44%",
+    "uptimeDay": "47.58%",
+    "uptimeWeek": "75.90%",
+    "uptimeMonth": "94.45%",
     "uptimeYear": "99.28%",
     "time": 3676,
-    "timeDay": 747,
+    "timeDay": 745,
     "timeWeek": 713,
     "timeMonth": 855,
     "timeYear": 3676,
     "dailyMinutesDown": {
-      "2024-03-16": 180,
+      "2024-03-16": 194,
       "2024-03-15": 729,
       "2024-03-14": 743,
       "2024-03-13": 727,
-      "2024-03-12": 58
+      "2024-03-12": 39
     }
   },
   {
@@ -137,11 +137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.ited.top.ico",
     "slug": "ited-ited",
     "status": "up",
-    "uptime": "90.49%",
+    "uptime": "90.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.49%",
+    "uptimeYear": "90.50%",
     "time": 1601,
     "timeDay": 576,
     "timeWeek": 688,
